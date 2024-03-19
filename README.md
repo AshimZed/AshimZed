@@ -1,7 +1,7 @@
 # Alexander D. Steele
 
 ## About Me
-Welcome to my GitHub! I'm a budding Data Engineer with a knack for transforming complex data into impactful insights. My journey blends rigorous academic training at Western Governor’s University with real-world experience in IT support and innovative project development. I'm passionate about leveraging my technical skills in Python, Java, and SQL to solve challenging problems and deliver efficient, user-centric solutions.
+Welcome to my GitHub! I'm a budding Software Engineer with an interest in building cool things. My journey blends rigorous academic training at Western Governor’s University with real-world experience in IT support and innovative project development. I'm passionate about leveraging my technical skills in Python, Java, and SQL to solve challenging problems and deliver efficient, user-centric solutions.
 
 ## Technical Proficiencies
 - **Languages & Frameworks:** Python, Java, SQL (Postgres & SQLite)

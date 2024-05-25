@@ -1,7 +1,13 @@
 # Alexander D. Steele
-<img src="2021-03_Badge_SF-Certified_Administrator_500x490px.png" width="80"/>
-<img src="ITIL_Foundation.png" width="80"/>
-<img src="LinuxEssentials-IconSize.png" width="80"/>
+<span style="display:inline-block">
+    <img src="2021-03_Badge_SF-Certified_Administrator_500x490px.png" width="80"/>
+</span>
+<span style="display:inline-block">
+    <img src="ITIL_Foundation.png" width="80"/>
+</span>
+<span style="display:inline-block">
+    <img src="LinuxEssentials-IconSize.png" width="80"/>
+</span>
 
 ## About Me
 Welcome to my GitHub! I'm a Software Developer with an interest in building cool things. My journey blends rigorous academic training at Western Governor’s University with real-world experience in Salesforce Administration and Development. I'm passionate about leveraging my technical skills in Apex, Java, SOQL, etc. to solve challenging problems and deliver efficient, user-centric solutions.

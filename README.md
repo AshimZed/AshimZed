@@ -1,18 +1,25 @@
 # Alexander D. Steele
+<img src="2021-03_Badge_SF-Certified_Administrator_500x490px.png" width="80"/>
+<img src="ITIL_Foundation.png" width="80"/>
+<img src="LinuxEssentials-IconSize.png" width="80"/>
 
 ## About Me
-Welcome to my GitHub! I'm a budding Software Engineer with an interest in building cool things. My journey blends rigorous academic training at Western Governor’s University with real-world experience in IT support and innovative project development. I'm passionate about leveraging my technical skills in Python, Java, and SQL to solve challenging problems and deliver efficient, user-centric solutions.
+Welcome to my GitHub! I'm a Software Developer with an interest in building cool things. My journey blends rigorous academic training at Western Governor’s University with real-world experience in Salesforce Administration and Development. I'm passionate about leveraging my technical skills in Apex, Java, SOQL, etc. to solve challenging problems and deliver efficient, user-centric solutions.
 
 ## Technical Proficiencies
-- **Languages & Frameworks:** Python, Java, SQL (Postgres & SQLite)
-- **Tools & Platforms:** Linux, Power BI, Git, GitHub, GitLab
-- **Certifications:** ITILⓇ Foundation, Linux Essentials
+- **Languages & Frameworks:** APEX, Python, Java, SQL (Postgres & SQLite), SOQL
+- **Tools & Platforms:** Salesforce, Linux
+- **Certifications:** Salesforce Administrator, ITILⓇ Foundation, Linux Essentials
 
 ## Projects
 - **[Optimal Package Delivery Routing for “WGUPS”](https://github.com/AshimZed/WGUPS)**: A Python application optimizing package delivery with Clarke & Wright's algorithm, featuring a dynamic update system and real-time status tracking.
 - **[Interactive Fight Outcome Predictor](https://github.com/AshimZed/Capstone_WGU)**: A Jupyter Notebook interface allowing dynamic interaction and fight outcome predictions based on fighter statistics.
 
 ## Professional Experience
+**Salesforce Developer | SkillStorm (April 2024 - Present)**
+- Designed and implemented custom objects, fields, and flows to enhance Salesforce functionality, ensuring efficient data management and user experience across the organization.
+- Developed and maintained Apex code to automate business processes and improve system performance, while adhering to best practices and coding standards.
+
 **IT Contractor | Intech Southwest (May 2023 - Present)**
 - Providing specialized technical support and strategic IT solutions tailored to client needs.
 - Configuring databases for project-specific requirements and ensuring efficient system operations.

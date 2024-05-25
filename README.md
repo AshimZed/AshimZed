@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a Software Developer with an interest in building cool
 - Designed and implemented custom objects, fields, and flows to enhance Salesforce functionality, ensuring efficient data management and user experience across the organization.
 - Developed and maintained Apex code to automate business processes and improve system performance, while adhering to best practices and coding standards.
 
-**IT Contractor | Intech Southwest (May 2023 - Present)**
+**IT Contractor | Intech Southwest (May 2023 - April 2024)**
 - Providing specialized technical support and strategic IT solutions tailored to client needs.
 - Configuring databases for project-specific requirements and ensuring efficient system operations.
 

@@ -43,4 +43,4 @@ When I'm not coding, you can find me exploring the world of Culinary Arts, stayi
 
 ---
 
-Feel free to [reach out](mailto:alexander.steele.2014@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/asteeele00/). Let's create something amazing together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asteeele00/).

@@ -42,8 +42,8 @@ Welcome to my GitHub! I'm a Developer, particularly versed in Salesforce Adminis
 - Developed and maintained Apex code to automate business processes and improve system performance, while adhering to best practices and coding standards.
 
 **IT Contractor | Intech Southwest (May 2023 - April 2024)**
-- Providing specialized technical support and strategic IT solutions tailored to client needs.
-- Configuring databases for project-specific requirements and ensuring efficient system operations.
+- Provided specialized technical support and strategic IT solutions tailored to client needs.
+- Configured databases for project-specific requirements and ensuring efficient system operations.
 
 ## Education
 **Western Governors University**

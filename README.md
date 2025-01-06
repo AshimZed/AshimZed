@@ -19,19 +19,23 @@
 </span>
 
 ## About Me
-Welcome to my GitHub! I'm a Talent Developer at SkillStorm, dedicated to upskilling individuals in Salesforce Administration and Development. I'm passionate about leveraging my technical expertise in Apex, Java, SOQL, and more to empower others, foster growth, and accelerate opportunities.
+Welcome to my GitHub! I'm a Developer, particularly versed in Salesforce Administration and Development. I'm passionate about leveraging my technical expertise in Apex, Java, SOQL, and more to empower others, drive growth, and enhance user experiences.
 
 ## Technical Proficiencies
 - **Languages & Frameworks:** Apex, Lightning Web Components, SOQL, Java, SQL
 - **Tools & Platforms:** Salesforce, Linux
-- **Salesforce Certifications:** Certified Instructor, Platform Developer I, Platform App Builder, Salesforce Administrator 
+- **Salesforce Certifications:** 
+    - Certified Instructor
+    - Platform Developer I
+    - Platform App Builder
+    - Salesforce Administrator 
 - **Other Certifications:** ITILⓇ Foundation, Linux Essentials
 
 ## Professional Experience
-**Talent Developer | SkillStorm (July 2024 - Present)**
-- Facilitate upskilling for individuals in Salesforce Administration and Development, including comprehensive instruction on courses like _ADX201: Essentials for New Lightning Experience Administrators_.
-- Explore and apply effective strategies to improve knowledge retention, engagement, and classroom management by reviewing industry articles, resources, and best practices.
-- Continuously advance personal expertise in Salesforce certifications and emerging technologies, staying current with industry trends and best practices.
+**Talent Developer | SkillStorm (July 2024 - January 2025)**
+- Facilitated upskilling for individuals in Salesforce Administration and Development, including comprehensive instruction on courses like _ADX201: Essentials for New Lightning Experience Administrators_.
+- Explored and applied effective strategies to improve knowledge retention, engagement, and classroom management by reviewing industry articles, resources, and best practices.
+- Continuously advanced personal expertise in Salesforce certifications and emerging technologies, staying current with industry trends and best practices.
 
 **Salesforce Developer | SkillStorm (April 2024 - July 2024)**
 - Designed and implemented custom objects, fields, and flows to enhance Salesforce functionality, ensuring efficient data management and user experience across the organization.

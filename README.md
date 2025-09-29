@@ -19,7 +19,7 @@
 </span>
 
 ## About Me
-Welcome to my GitHub! I'm a Salesforce Developer, particularly versed in Salesforce Administration and Development. I'm passionate about leveraging my technical expertise in Apex, SOQL, and more to empower others, drive growth, and enhance user experiences.
+Welcome to my GitHub! I'm a Salesforce Developer who's passionate about leveraging my technical expertise in Apex, SOQL, and more to empower others, drive growth, and enhance user experiences.
 
 ## Technical Proficiencies
 - **Languages & Frameworks:** Apex, Lightning Web Components, SOQL, JavaScript, GraphQL

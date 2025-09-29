@@ -19,10 +19,10 @@
 </span>
 
 ## About Me
-Welcome to my GitHub! I'm a Developer, particularly versed in Salesforce Administration and Development. I'm passionate about leveraging my technical expertise in Apex, Java, SOQL, and more to empower others, drive growth, and enhance user experiences.
+Welcome to my GitHub! I'm a Salesforce Developer, particularly versed in Salesforce Administration and Development. I'm passionate about leveraging my technical expertise in Apex, SOQL, and more to empower others, drive growth, and enhance user experiences.
 
 ## Technical Proficiencies
-- **Languages & Frameworks:** Apex, Lightning Web Components, SOQL, Java, SQL
+- **Languages & Frameworks:** Apex, Lightning Web Components, SOQL, JavaScript, GraphQL
 - **Tools & Platforms:** Salesforce, Linux
 - **Salesforce Certifications:** 
     - Certified Instructor
@@ -32,6 +32,18 @@ Welcome to my GitHub! I'm a Developer, particularly versed in Salesforce Adminis
 - **Other Certifications:** ITILⓇ Foundation, Linux Essentials
 
 ## Professional Experience
+**Salesforce Administrator, Solution Specialist | City of Garland (April 2025 - Present)**
+- Partner with business units to gather requirements, remediate processes, and translate needs into Salesforce solutions, ensuring alignment between stakeholders and technical teams.
+- Collaborate with external implementation partners to design and validate Salesforce solutions, applying deep platform expertise to maintain technical efficacy and scalability.
+- Contribute to testing cycles, identifying defects, and validating functionality before handoff to business units for UAT.
+- Develop Lightning Web Components (LWCs) to streamline business processes, significantly reducing the time required for routine tasks in legacy CRM workflows.
+- Engineer offline LWCs leveraging GraphQL to overcome Salesforce Field Service limitations, extending functionality beyond native platform constraints.
+- Implement Lightning Message Service (LMS) to enable responsive, cross-component communication and deliver a seamless user experience.
+
+**Salesforce Development Instructor | Cloud Code Academy (January 2025 - Present)**
+- Design and develop 36+ hours of structured curriculum to equip aspiring developers with the skills and knowledge needed to pass the Salesforce Platform Developer I certification exam, enhancing their proficiency in Apex, SOQL, and Lightning Web Components.
+- Collaborate with senior leadership and fellow instructors to gather feedback and refine curriculum content, ensuring lessons align with industry standards, maintain instructional quality, and continuously improve learner outcomes.
+
 **Talent Developer | SkillStorm (July 2024 - January 2025)**
 - Facilitated upskilling for individuals in Salesforce Administration and Development, including comprehensive instruction on courses like _ADX201: Essentials for New Lightning Experience Administrators_.
 - Explored and applied effective strategies to improve knowledge retention, engagement, and classroom management by reviewing industry articles, resources, and best practices.
@@ -43,16 +55,12 @@ Welcome to my GitHub! I'm a Developer, particularly versed in Salesforce Adminis
 
 **IT Contractor | Intech Southwest (May 2023 - April 2024)**
 - Provided specialized technical support and strategic IT solutions tailored to client needs.
-- Configured databases for project-specific requirements and ensuring efficient system operations.
+- Configured databases for project-specific requirements and ensured efficient system operations.
 
 ## Education
 **Western Governors University**
 - Bachelor of Science in Computer Science
 - Awards: Excellence in Software Design & Quality Assurance, Excellence in Technical Communication
-
-## Projects
-- **[Optimal Package Delivery Routing for “WGUPS”](https://github.com/AshimZed/WGUPS)**: A Python application optimizing package delivery with Clarke & Wright's algorithm, featuring a dynamic update system and real-time status tracking.
-- **[Interactive Fight Outcome Predictor](https://github.com/AshimZed/Capstone_WGU)**: A Jupyter Notebook interface allowing dynamic interaction and fight outcome predictions based on fighter statistics.
 
 ## Interests
 When I'm not coding, you can find me exploring the world of Culinary Arts, reading fantasy novels, or diving into continuous learning to satisfy my ever-curious mind.
